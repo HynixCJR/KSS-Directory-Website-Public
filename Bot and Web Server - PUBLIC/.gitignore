@@ -1,0 +1,4 @@
+announcements/*.json
+front-end/
+__pycache__/
+bot-env/
